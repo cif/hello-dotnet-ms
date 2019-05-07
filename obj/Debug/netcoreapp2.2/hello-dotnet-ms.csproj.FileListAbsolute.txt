@@ -1,0 +1,14 @@
+/Users/benipsen/Development/hello-dotnet-ms/bin/Debug/netcoreapp2.2/hello-dotnet-ms.deps.json
+/Users/benipsen/Development/hello-dotnet-ms/bin/Debug/netcoreapp2.2/hello-dotnet-ms.runtimeconfig.json
+/Users/benipsen/Development/hello-dotnet-ms/bin/Debug/netcoreapp2.2/hello-dotnet-ms.runtimeconfig.dev.json
+/Users/benipsen/Development/hello-dotnet-ms/bin/Debug/netcoreapp2.2/hello-dotnet-ms.dll
+/Users/benipsen/Development/hello-dotnet-ms/bin/Debug/netcoreapp2.2/hello-dotnet-ms.pdb
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.csprojAssemblyReference.cache
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.csproj.CoreCompileInputs.cache
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.RazorAssemblyInfo.cache
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.RazorAssemblyInfo.cs
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.AssemblyInfoInputs.cache
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.AssemblyInfo.cs
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.RazorTargetAssemblyInfo.cache
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.dll
+/Users/benipsen/Development/hello-dotnet-ms/obj/Debug/netcoreapp2.2/hello-dotnet-ms.pdb
